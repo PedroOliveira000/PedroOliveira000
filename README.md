@@ -25,5 +25,7 @@
     <img align="center" alt="Antigravity" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antigravity/antigravity-original.svg">
     <img align="center" alt="Codex" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codex/codex-original.svg">
     <img align="center" alt="Ollama" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg">
+        <img align="center" alt="Linux Mint" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg">
+
 
 </div>
